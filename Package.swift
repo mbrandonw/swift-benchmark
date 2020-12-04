@@ -17,7 +17,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Benchmark",
+    name: "swift-benchmark",
     products: [
         .library(
             name: "Benchmark",
